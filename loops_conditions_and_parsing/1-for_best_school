@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #comment
 for((c=0;c<=9;c++))
 do
