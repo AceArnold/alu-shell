@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #comment 
-COUNT=10
-while((COUNT>0));do
+COUNT=9
+while((COUNT>=0));do
 	echo "Best School"
 ((COUNT--))
 done;
